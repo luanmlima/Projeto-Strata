@@ -10,6 +10,7 @@ a {
     border-bottom: 1px dotted;
     text-decoration: none;
     color: #49bf9d;
+    
 }
 
 .hidden{
@@ -334,6 +335,16 @@ header p {
 .main-footer a:hover {
     transition: linear .2s;
     color: #49bf9d;
+}
+
+.img-left{
+    margin-right: 10px;
+    float: left;
+}
+
+.img-right{
+    float: right;
+    margin-left: 10px;
 }
 
 /* GRID */
